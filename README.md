@@ -1,2 +1,0 @@
-# DYNAMIC-BABA
-#                     BABA PROGRAMMER
