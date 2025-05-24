@@ -1,5 +1,9 @@
 {
-  "tool_path1": "O+flash.exe",
-  "tool_path2": "rcsmo+flash.exe",
+  "tools": {
+    "O+ Flash Tool": "O+flash.exe",
+    "Another Tool": "AnotherTool.exe",
+    "tool_path1": "path/to/tool1.exe",
+    "tool_path2": "path/to/tool2.exe"
+  },
   "text_message": "Open"
 }
